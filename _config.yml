@@ -6,13 +6,23 @@ url: https://uw-sec.github.io/secprog/
 
 $pink-000: #f77ef1;
 
+aux_links:
+  LEARN: https://github.com/just-the-docs/just-the-docs-template
+  ED:    https://github.com/just-the-docs/just-the-docs-template
+
 callouts:
   warning:
     title: Warning
     color: red
   important:
+    title: Important
     color: blue
-
-aux_links:
-  LEARN: https://github.com/just-the-docs/just-the-docs-template
-  ED:    https://github.com/just-the-docs/just-the-docs-template
+  note:
+    title: Note
+    color: purple
+  highlight:
+    title: Highlight
+    color: yellow
+  new:
+    title: New
+    color: green
