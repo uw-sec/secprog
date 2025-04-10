@@ -3,7 +3,6 @@ layout: page
 title: Modules
 description: >-
     Listing of course modules.
-nav_order: 3
 ---
 
 # Modules

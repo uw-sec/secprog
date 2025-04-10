@@ -38,3 +38,7 @@ defaults:
       type: modules
     values:
       layout: module
+
+liquid:
+  error_mode: strict
+  strict_filters: true
