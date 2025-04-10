@@ -1,0 +1,136 @@
+term:
+  class_start: 2026-01-05
+  class_end: 2026-04-06
+  exams_start: 2026-04-09
+  exams_end: 2026-04-23
+  holidays:
+    - from: 2026-02-14
+      to: 2026-02-22
+      name: "Reading Week"
+    - from: 2026-04-07
+      to: 2026-04-08
+      name: "Exam Prep"
+
+  course_days: [ 1, 3 ] # Tuesday, Thursday
+  course_dues: [ 0, 1, 2, 3, 4 ] # Everyday
+  course_exam:
+
+modules:
+  - key: foundations
+    abbr: "FSP"
+    name: "Foundations of Secure Programming"
+    activities:
+      - type: lecture
+        parts:
+          - key: logistics
+            name: "Course logistics"
+          - key: concepts-vulns
+            name: "Security Concepts and the Vulnerability Landscape"
+          - key: challenges-practices
+            name: "Challenges and Best Practices in Secure Development"
+  
+  - key: architecture
+    abbr: "SAD"
+    name: "Security Architecture & Design"
+    activities:
+      - type: lecture
+        parts:
+          - key: intro
+            name: "Introduction to Security Architecture"
+          - key: risk
+            name: "Risk Analysis & Management"
+          - key: review
+            name: "Architectural Review & Vulnerability Analysis"
+          - key: foundations
+            name: "Secure Design Foundations"
+          - key: crypto
+            name: "Cryptography & Retrofitting"
+          - key: prototyping
+            name: "Prototyping in Secure Software Design"
+  
+  - key: implementation
+    abbr: "ILV"
+    name: "Implementation-Level Vulnerabilities"
+    activities:
+      - type: lecture
+        parts:
+          - key: access-control
+            name: "Access Control & Resource Management Vulnerabilities"
+          - key: calculation
+            name: "Calculation & Protection Vulnerabilities"
+  
+  - key: ai-tools
+    abbr: "AI"
+    name: "AI Code Generation Tools"
+    activities:
+      - type: lecture
+        parts:
+          - key: code-gen
+            name: "Code Generation Tools & Security"
+          - key: research
+            name: "Current Research in AI Tools"
+  
+  - key: testing
+    abbr: "TEST"
+    name: "Testing"
+    activities:
+      - type: lecture
+        parts:
+          - key: practices
+            name: "Why Test & Good Practices"
+          - key: static
+            name: "Static Code Analysis"
+          - key: scorecards
+            name: "Security Scorecards & Profilers"
+          - key: fuzzing
+            name: "Fuzzing"
+          - key: runtime
+            name: "Runtime Testing"
+  
+
+  - key: deployment
+    abbr: "SSDM"
+    name: "Secure Software Deployment and Maintenance"
+    activities:
+      - type: lecture
+        parts:
+          - key: devsecops
+            name: "Secure Deployment & DevSecOps"
+          - key: monitoring
+            name: "Monitoring & Incident Response"
+          - key: wrapup
+            name: "Course Wrap Up"
+  
+assignments:
+  # assignments
+  - key: a1
+    name: "Assignment 1"
+    type: assignment
+    start: 2025-01-21
+    due: 2025-02-07
+    link_relative: assignments/a1
+  - key: a2
+    name: "Assignment 2"
+    type: assignment
+    start: 2025-02-11
+    due: 2025-03-04
+    link_relative: assignments/a2
+  - key: a3
+    name: "Assignment 3"
+    type: assignment
+    start: 2025-03-04
+    due: 2025-03-14
+    link_relative: assignments/a3
+  - key: a4
+    name: "Assignment 4"
+    type: assignment
+    start: 2025-03-18
+    due: 2025-03-28
+    link_relative: assignments/a4
+  # misc
+  - key: research
+    name: "Mini research project"
+    type: blog
+    start: 2025-01-07
+    due: 2025-04-04
+    link_relative: assignments/research

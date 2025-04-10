@@ -26,3 +26,15 @@ callouts:
   new:
     title: New
     color: green
+
+# Collections for website data
+collections:
+  modules:
+
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ""
+      type: modules
+    values:
+      layout: module
