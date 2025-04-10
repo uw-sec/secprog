@@ -1,8 +1,18 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: CS 489/698
+description: The CS 489/698 course website at the University of Waterloo. 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://uw-sec.github.io/secprog/
+
+$pink-000: #f77ef1;
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  important:
+    color: blue
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  LEARN: https://github.com/just-the-docs/just-the-docs-template
+  ED:    https://github.com/just-the-docs/just-the-docs-template
