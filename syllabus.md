@@ -1,6 +1,8 @@
 ---
-title: Syllabus
 layout: page
+title: Syllabus
+description: >-
+    Course syllabus
 --- 
 # Syllabus
 {:.no_toc}
