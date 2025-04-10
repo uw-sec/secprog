@@ -39,13 +39,13 @@ Third or fourth year CS students (CS 489) or first year CS graduate students (CS
 
 ## Course Outline
 
-### Module - Foundations of Secure Programming
+**Module - Foundations of Secure Programming**
 Jan 06
 Lecture: Security Concepts and the Vulnerability Landscape
 Jan 08
 Lecture: Challenges and Best Practices in Secure Development
 
-### Module - Security Architecture & Design
+**Module - Security Architecture & Design**
 Jan 13
 Lecture: Introduction to Security Architecture
 Jan 15
@@ -59,33 +59,31 @@ Lecture: Cryptopgraphy & Retrofitting
 Jan 29
 Lecture: Prototyping in Secure Software Design
 
-### Module - Implementation-Level Vulnerabilities 
+**Module - Implementation-Level Vulnerabilities**
 Feb 03
 Lecture: Access Control and Resource Management Vulnerabilities
 Feb 05
 Lecture: Calculation, Protection, and Neutralization Vulnerabilities
 
-### Module - AI Code Generation Tools
+**Module - AI Code Generation Tools**
 Feb 10
 Lecture: Code Generation Tools and Security
 Feb 12
 Lecture: Current Research in AI Code Generation Tools
 
-### READING WEEK - Feb 14 - 22
-
-### Module - Testing
+**Module - Testing**
 Feb 24
 Lecture: Why Test & Good General Practices
 Feb 26
 Lecture: Static Code Analysis
 
-### Prototype Presentations
+**Prototype Presentations**
 Mar 03
 Prototype Presentations Day 1
 Mar 05
 Prototype Presentations Day 2
 
-### Module - Testing (continue)
+**Module - Testing (continue)**
 Mar 10
 Lecture: Security Scorecards & Profilers
 Mar 12
@@ -93,7 +91,7 @@ Lecture: Fuzzing
 Mar 17
 Lecture: Runtime Testing
 
-### Module - Secure Software Deployment and Maintenance
+**Module - Secure Software Deployment and Maintenance**
 Mar 19
 Lecture: Secure Deployment Practices and DevSecOps
 Mar 24
@@ -101,12 +99,11 @@ Lecture: Continuous Monitoring, Incident Response, and Secure Updates
 Mar 26
 Lecture: Course Wrap Up
 
-### Final Project Presentations
+**Final Project Presentations**
 Mar 31
 Final Project Presentations Day 1
 Apr 2
 Final Project Presentations Day 2
-
 
 ## Grading
 
@@ -149,7 +146,7 @@ Do not zip your files.
 - Keep all Email Confirmation Receipts until the course is over as proof of submission.
 - For more information about accessing and submitting to a LEARN dropbox, please see the [IST Knowledge Base: Dropboxes - Students](https://uwaterloo.atlassian.net/wiki/spaces/ISTKB/pages/1551630337/Dropboxes+-+Students)
 
-#### Feedback
+### Feedback
 
 Once the due date has passed, course staff will mark your submissions. After all submissions have been marked, an announcement will be posted letting you know that your feedback is available to view. To access your feedback, follow the steps in [Viewing Feedback in a Dropbox](https://uwaterloo.atlassian.net/wiki/spaces/ISTKB/pages/1551630337/Dropboxes+-+Students#Viewing-feedback-in-a-Dropbox).
 
@@ -162,13 +159,13 @@ It is your responsibility to ensure that you submit your assignment or project c
 >- **Late project component submissions will never be accepted.** We will not grant an extension because your team was not organized enough to know who was supposed to submit the work or because that person's internet connection failed at the crucial moment of submission. Be sure to submit well in advance and to exchange contact information in the event of an issue with a submission.
 
 ### Accommodation Due to Illness
-#### Missed Assignments
+**Missed Assignments**
 
 If you are unable to complete an assignment  because of illness, or other extenuating circumstances, submit appropriate documentation to Quest. There is no need to contact course staff for short extensions. We are notified daily of absences and at the discretion of the course staff, you will receive up to a two day extension.
 
 Further information regarding Management of Requests for [Accommodation Due to Illness](https://uwaterloo.ca/the-centre/academics/academics-undergraduate-students/accommodation-due-illness) can be found on the Accommodation due to illness page.
 
-#### Missed Final Examination
+**Missed Final Examination**
 
 If you are unable to write a final examination due to illness, seek medical treatment and have a [medical practitioner](https://uwaterloo.ca/students/health-and-well-being/primary-care-appointments/student-medical-clinic) complete a [Verification of Illness Form](https://uwaterloo.ca/math/accommodations/submission). This should be submitted through Quest. 
 
@@ -181,7 +178,7 @@ Further information about Examination Accommodation Due to Illness regulations i
 
 In order to maintain a culture of academic integrity, members of the University of Waterloo community are expected to promote honesty, trust, fairness, respect and responsibility. [Check the [Office of Academic Integrity](https://uwaterloo.ca/academic-integrity/) for more information.]
 
-#### Generative AI
+**Generative AI**
 
 Generative artificial intelligence (GenAI) trained using large language models (LLM) or other methods to produce text, images, music, or code, like Chat GPT, DALL-E, or GitHub CoPilot, may be used in this course with proper documentation, citation, and acknowledgement. Permitted uses of and expectations for using GenAI will discussed in class and outlined on assignment instructions. 
 
@@ -191,7 +188,7 @@ In addition, you should be aware that the legal/copyright status of generative A
 
 You are accountable for the content and accuracy of all work you submit in this class, including any supported by generative AI.
 
-#### Discipline
+**Discipline**
 
 A student is expected to know what constitutes academic integrity to avoid committing an academic offence, and to take responsibility for his/her actions. [Check the [Office of Academic Integrity](https://uwaterloo.ca/academic-integrity/) for more information.] 
 
@@ -199,7 +196,7 @@ A student who is unsure whether an action constitutes an offence, or who needs h
 
 For information on categories of offences and types of penalties, students should refer to [Policy 71](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-71), Student Discipline. For typical penalties check [Guidelines for the Assessment of Penalties](https://uwaterloo.ca/secretariat/guidelines/guidelines-assessment-penalties).
 
-#### Grievance
+**Grievance**
 
 A student who believes that a decision affecting some aspect of his/her university life has been unfair or unreasonable may have grounds for initiating a grievance. 
 
@@ -207,7 +204,7 @@ Read [Policy 70](https://uwaterloo.ca/secretariat/policies-procedures-guidelines
 
 When in doubt, please be certain to contact the department’s administrative assistant who will provide further assistance. , Student Petitions and Grievances, Section 4.
 
-#### Appeals
+**Appeals**
 
 A decision made or penalty imposed under Policy 70 (Student Petitions and Grievances) (other than a petition) or Policy 71 (Student Discipline) may be appealed if there is a ground.
 
@@ -229,14 +226,14 @@ It is our intent that students from all diverse backgrounds and perspectives be 
 
 If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support.
 
-##### On-campus Resources
+**On-campus Resources**
 
 - Campus Wellness: [https://uwaterloo.ca/campus-wellness/](https://uwaterloo.ca/campus-wellness/)
 - Counselling Services: [counselling.services@uwaterloo.ca](mailto:counselling.services@uwaterloo.ca) / 519-888-4567 ext 32655 / Needles Hall North 2nd floor, (NH 2401)
 - MATES: one-to-one peer support program offered by Waterloo Undergraduate Student Association(WUSA) and Counselling Services: [mates@uwaterloo.ca](mailto:mates@uwaterloo.ca)
 - Health Services service: located across the creek from Student Life Centre, 519-888-4096.
 
-##### Off-campus Resources
+**Off-campus Resources**
 
 - Good2Talk (24/7): Free confidential help line for post-secondary students. Phone: 1-866-925-5454
 - Here 24/7: Mental Health and Crisis Service Team. Phone: 1-844-437-3247
