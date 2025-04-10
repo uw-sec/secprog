@@ -4,6 +4,9 @@ layout: page
 --- 
 # Syllabus 
 
+1. TOC
+{:toc}
+
 ## Table of Contents
 - [Overview](#overview)
 - [Learning Outcomes](#learning-outcomes)

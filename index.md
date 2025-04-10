@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_exclude: true
 ---
 # CS 489/698 - Secure Programming
 
