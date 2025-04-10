@@ -9,6 +9,12 @@ Feb 24
 Feb 26
 : **Lecture**: **Static Code Analysis**
 
+Mar 03
+: **Prototype Presentations**: **Day 1**
+
+Mar 05
+: **Prototype Presentations**: **Day 2**
+
 Mar 10
 : **Lecture**: **Security Scorecards & Profilers**
 
