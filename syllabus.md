@@ -8,6 +8,11 @@ layout: page
 ## Table of contents
 {: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+
+---
+
 ## Overview
 
 This course provides an introduction to building secure software applications. It examines the software development life cycle and teaches what developers can do in each step to make their software more secure. It also will cover common vulnerabilities that exist and how developers can avoid or safeguard against them.
