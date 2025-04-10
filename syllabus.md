@@ -4,31 +4,8 @@ layout: page
 --- 
 # Syllabus 
 
-1. TOC
+TOC
 {:toc}
-
-## Table of Contents
-- [Overview](#overview)
-- [Learning Outcomes](#learning-outcomes)
-- [Intended Audience](#intended-audience)
-- [Pre and Corequisites](#pre-and-corequisites)
-- [Course Outline](#course-outline)
-- [Grading](#grading)
-- [Administrative Policies](#administrative-policies)
-    - [Assignment and Project Component Deadlines](#assignment-and-project-component-deadlines)
-    - [Accommodation Due to Illness](#accommodation-due-to-illness)
-        - [Missed Assignments](#missed-assignments)
-        - [Missed Final Examination](#missed-final-examination)
-    - [Academic Integrity](#academic-integrity)
-        - [Generative AI](#generative-ai)
-        - [Discipline](#discipline)
-        - [Grievance](#grievance)
-        - [Appeals](#appeals)
-    - [Accommodations](#accommodations)
-    - [Diversity](#diversity)
-    - [Mental Health](#mental-health)
-        - [On-Campus Resources](#on-campus-resources)
-        - [Off-Campus Resources](#off-campus-resources)
 
 ## Overview
 
