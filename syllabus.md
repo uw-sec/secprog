@@ -2,10 +2,11 @@
 title: Syllabus
 layout: page
 --- 
-# Syllabus 
+# Syllabus
+{:.no_toc}
 
-TOC
-{:toc}
+## Table of contents
+{: .no_toc .text-delta }
 
 ## Overview
 
