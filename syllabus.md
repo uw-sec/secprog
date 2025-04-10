@@ -41,6 +41,11 @@ Third or fourth year CS students (CS 489) or first year CS graduate students (CS
 
 ## Course Outline
 
+{% assign modules = site.modules | where: 'type', 'module' %}
+{% for module in modules %}
+{{ module }}
+{% endfor %}
+
 **Module - Foundations of Secure Programming**
 Jan 06
 Lecture: Security Concepts and the Vulnerability Landscape
