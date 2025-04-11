@@ -4,11 +4,9 @@ theme: just-the-docs
 
 url: https://uw-sec.github.io/secprog/
 
-$pink-000: #f77ef1;
-
 aux_links:
-  LEARN: https://github.com/just-the-docs/just-the-docs-template
-  ED:    https://github.com/just-the-docs/just-the-docs-template
+  LEARN: https://learn.uwaterloo.ca/d2l/home
+  ED:    https://edstem.org/us/dashboard
 
 callouts:
   warning:
