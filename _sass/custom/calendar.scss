@@ -1,0 +1,66 @@
+table.calendar {
+    font-family: arial, helvetica;
+    font-size: 10pt;
+    empty-cells: show;
+    border: 1px solid #000000;
+    border-collapse: collapse;
+
+    tr td {
+        border: 1px solid #aaaaaa;
+    }
+    thead tr td {
+        text-align: center;
+        background: #444444 !important;
+        color: #ffffff;
+        height: auto;
+        font-weight: bold;
+        min-width: 0;
+    }
+    tbody tr td {
+        vertical-align: top;
+        height: 6em;
+        background: #ffffff;
+        min-width: 0;
+    }
+
+    .lecture {
+        background: #ffffaa;
+    }
+    .interactive {
+        background: #cccc99;
+    }
+    .tutorial {
+        background: #dddd55;
+    }
+    .due {
+        background: #ffaaaa;
+    }
+
+    .holiday {
+        background: #ccffcc;
+    }
+    .special {
+        background: #aaaaff;
+    }
+    .important {
+        background: #ffaaaa;
+    }
+    .unavailable {
+        background: #cccccc;
+    }
+
+    .reading {
+        color: #3333ff;
+    }
+    .label-due {
+        color: #ff0000;
+        font-weight: bold;
+    }
+    .label-start {
+        color: #aa33ff;
+        font-weight: bold;
+    }
+    .label-activity {
+        font-weight: bold;
+    }
+}
