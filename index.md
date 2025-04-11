@@ -18,5 +18,5 @@ Students completing this should be able to build and deploy software with fewer 
 
 {% if site.announcements %}
 {{ site.announcements.last }}
-[All announcements](announcements.md){: .btn .btn-outline .fs-3 }
+[All announcements](announcements.html){: .btn .btn-outline .fs-3 }
 {% endif %}
