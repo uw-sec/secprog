@@ -29,6 +29,7 @@ callouts:
 collections:
   modules:
   schedules:
+  announcements:
 
 # Default layouts for each collection type
 defaults:
@@ -42,6 +43,11 @@ defaults:
       type: schedules
     values:
       layout: schedule
+  - scope:
+      path: ""
+      type: announcements
+    values:
+      layout: announcement
 
 liquid:
   error_mode: strict
