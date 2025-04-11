@@ -30,6 +30,7 @@ callouts:
 # Collections for website data
 collections:
   modules:
+  schedules:
 
 # Default layouts for each collection type
 defaults:
@@ -38,6 +39,11 @@ defaults:
       type: modules
     values:
       layout: module
+  - scope:
+      path: ""
+      type: schedules
+    values:
+      layout: schedule
 
 liquid:
   error_mode: strict
