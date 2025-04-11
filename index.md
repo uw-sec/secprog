@@ -13,3 +13,10 @@ Students completing this should be able to build and deploy software with fewer 
 >**Course lectures are scheduled in the following session:**
 >
 >Please check Quest for the assigned days/times and classroom for the lectures.
+
+## Latest Announcement
+
+{% if site.announcements %}
+{{ site.announcements.last }}
+[All announcements](announcements.md){: .btn .btn-outline .fs-3 }
+{% endif %}
