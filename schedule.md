@@ -7,15 +7,15 @@ layout: page
 
 **January - April 2026**
 
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse;">
+<table class="calendar">
   <thead>
     <tr>
-      <th style="vertical-align: top; text-align: left;">Week</th>
-      <th style="vertical-align: top; text-align: left;">Monday</th>
-      <th style="vertical-align: top; text-align: left;">Tuesday</th>
-      <th style="vertical-align: top; text-align: left;">Wednesday</th>
-      <th style="vertical-align: top; text-align: left;">Thursday</th>
-      <th style="vertical-align: top; text-align: left;">Friday</th>
+      <th>Week</th>
+      <th>Monday</th>
+      <th>Tuesday</th>
+      <th>Wednesday</th>
+      <th>Thursday</th>
+      <th>Friday</th>
     </tr>
   </thead>
   <tbody>
